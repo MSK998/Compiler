@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Compiler": {
+      "commandName": "Project",
+      "commandLineArgs": "test_for.tri out.tam out.txt",
+      "workingDirectory": "../"
+    }
+  }
+}

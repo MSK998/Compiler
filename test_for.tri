@@ -1,0 +1,9 @@
+let var b: Integer in
+begin
+	for b := 0 to b < 5 do
+		begin
+			putint(b); puteol();
+			b := b+1
+		end
+	next
+end

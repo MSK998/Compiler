@@ -1,0 +1,23 @@
+#This program will test all of the commands used within the coursework spec provided
+#this is an example program
+let
+	const MAX ~ 10;
+	var a: Integer;
+	var b: Integer
+in
+	begin
+		getint(var a);
+		if a > 0 then
+			if a < MAX then
+				while a > 0 do
+					begin
+						putint(a); puteol();
+						a := a-1
+					end
+			endif
+		endif
+	end
+	
+	
+	
+	
